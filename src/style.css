@@ -246,7 +246,7 @@ img {
                     z-index: 10;
                     color: rgb(53, 114, 194);
                     margin-bottom: -2%;
-                    height: min(2.7vw, 25px);
+                    height: min(3.0vw, 25px);
                 }
 
                 img {
